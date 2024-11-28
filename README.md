@@ -1,14 +1,14 @@
 # portafolio de proyectos
 
 ¡Hola! soy  **Virginia Elizabeth Alonso Herrera.**
-soy Licenciada en Infomática Administrativa, apasionada por la tecnología y los lenfguajes de programación aqui encontraras información sobre mí.
+soy Licenciada en Infomática Administrativa, apasionada por la tecnología y los lenguajes de programación aqui encontraras información sobre mí.
 _________
 El proyecto cuenta con las secciones de:
 
--   Habilidades
-- Proyectos
-- Testimonios
-- Contacto
+-  Habilidades 💪  
+- Proyectos📋 
+- Testimonios🙎‍♂️
+- Contacto📫 
 
 ### Creado con:
 - HTML
@@ -25,4 +25,7 @@ El proyecto cuenta con las secciones de:
     ![Proyecto](assets/testimonios.png)
  ### *Espero pronto saber de ti*
  *correo*
- [virginia.alonoso95@gmail.com](mailto:virginia.alonso95@gmail.com)
+ [virginia.alonso95@gmail.com](mailto:virginia.alonso95@gmail.com)
+ 
+ ### Creado en el bootcamp de TecnolochicasPro 💜
+ [Tecnolochicas] (https://tecnolochicas.mx/)
